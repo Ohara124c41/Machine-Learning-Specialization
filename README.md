@@ -1,10 +1,10 @@
 ## Synopsis
 
-Enclosed are the lectures, projects and addtional information resources that contained within the Machine Learning Specialization program. The information contained in the lecture slides is more than sufficient to learn how to approach the projects (which is more than can be said for most Specializations or MicroMasters...). You could then follow along with the notebooks and should be able to fully understand the logical steps taken to receive the solutions. 
+Enclosed are the lectures, projects and additional resources that are contained within the Machine Learning Specialization program. The information contained in the lecture slides is more than sufficient to learn how to approach the projects (which is more than can be said for most Specializations or MicroMasters...). You could then follow along with the notebooks and should be able to fully understand the logical steps taken to arrive at the solutions. 
 
 ## Motivation
 
-This specialization was selected as supplemental information for graduate studies in Robotics and Artificial Intelligence, as well as an interesting Life-Long Learning topic. The various projects granted additional familiarity using Jupyter Notebooks, learning GraphLab, as well as some more specialized mathematical principles in statistics and probability. Many of the topics involved are directly related to AI and Robotics, so if you have an interest in these topics, I highly recommend pursuing this specialization. 
+This specialization was selected as supplemental information to be applied towards graduate studies in Robotics and Artificial Intelligence, as well as an interesting Life-Long Learning topic. The various projects granted additional familiarity using Jupyter Notebooks, learning GraphLab, as well as some more specialized mathematical principles in statistics and probability. Many of the topics involved are directly related the underworkings of AI and Robotics (Deep Learning, Decision Trees, Probability), so if you have an interest in these topics, I highly recommend pursuing this specialization. 
 
 ## Installation
 
