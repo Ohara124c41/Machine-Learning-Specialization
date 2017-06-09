@@ -22,3 +22,5 @@ Information was made available by the instructors, mentors and students on the f
 
 Starter code and projects distributed by the University of Washington, from the College of Engineering and Department of Statistics.
 Made available via Coursera as part of the Machine Learning Specialization. 
+
+https://www.coursera.org/specializations/machine-learning 
