@@ -12,11 +12,7 @@ A short description of the motivation behind the creation and maintenance of the
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
-
-## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+Most of the projects are initialized to work with GraphLab. I recommend using -pip install on Conda, so you do not need to initialize the desktop version of GraphLab. Numpy also has packages that can are suitable. For some of the mapping techniques, R can be used as well (e.g. Euclidean/Cosine Distance between two vectors).
 
 ## Tests
 
@@ -24,8 +20,9 @@ Describe and show how to run the tests with code examples.
 
 ## Contributors
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+Information was made available by the instructors, mentors and students on the forums, as well as other talented individuals on GitHub. Thank you for your assistance. 
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+Starter code and projects distributed by the University of Washington, from the College of Engineering and Department of Statistics.
+Made available via Coursera as part of the Machine Learning Specialization.
